@@ -9,4 +9,3 @@ sum_two = 0
   sum_two+=i
 end
 puts (sum_two**2)-(sum)
-
